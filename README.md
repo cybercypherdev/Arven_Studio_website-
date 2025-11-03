@@ -62,5 +62,3 @@ Arven Studio specializes in high-end, futuristic photo experiences — blending 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Would you like me to make it **more minimal and elegant** (like a sleek portfolio README) or **more technical and detailed** (for developers/contributors)?
